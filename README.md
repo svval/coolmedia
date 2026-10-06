@@ -1,5 +1,7 @@
 # Cool Media — Web Sitesi Yeniden Tasarımı
 
+**Canlı site:** https://coolmedia.vercel.app
+
 Gaziantep merkezli dijital reklam ve tasarım ajansı **Cool Media** ([coolmedia.com.tr](https://www.coolmedia.com.tr)) için baştan tasarlanmış kurumsal web sitesi. Tüm metinler, görseller, ekip bilgileri, referanslar ve blog yazıları mevcut siteden aktarılmıştır.
 
 ## Teknolojiler
